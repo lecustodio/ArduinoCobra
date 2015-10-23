@@ -2,6 +2,7 @@
   
   Modificade and Developer By Leandro Custódio
   E-mail: lgckks@gmail.com
+  Youtube: https://youtu.be/kuoH3wuT0S8
 
    The circuit:
 	* +V connection of the PING))) attached to +5V
