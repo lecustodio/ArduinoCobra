@@ -1,13 +1,14 @@
 /* TabuleiroFatec))) Sensor
   
-     LeandroCustódio
-     lgckks@gmail.com
+  Modificade and Developer By Leandro Custódio
+  E-mail: lgckks@gmail.com
 
    The circuit:
 	* +V connection of the PING))) attached to +5V
 	* GND connection of the PING))) attached to ground
 	* SIG connection of the PING))) attached to digital pin 7
   * TRIG connection of the PING))) attached to return sonic sensor pin 8
+  * Servo of object moviment))) attached to pin 9
 
  */
 
